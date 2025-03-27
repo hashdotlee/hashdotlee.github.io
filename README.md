@@ -9,7 +9,7 @@
 
 ## WebRTC (for IT4682 - Multimedia Communication)
 
-- Link: [Spock](https://github.com/hashdotlee/spock/README.md)
+- Link: [Spock](https://github.com/hashdotlee/spock)
 - Description: A simple WebRTC application that allows users to create and join rooms to chat with each other. This project is built for educational purposes.
 - Documentation:
 
