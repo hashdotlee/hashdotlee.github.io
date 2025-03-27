@@ -17,7 +17,7 @@
 
 2. [Nghiên cứu, khảo sát](https://docs.google.com/document/d/e/2PACX-1vQr3hc7Qa8Oa6SDZnwnHXaJ8nJseJrXaDG0vh-UayXpfIVDlO7JjJaAZQpdnmZ-2iEB1IF21VniJweg/pub) ![](https://geps.dev/progress/100)
 
-3. [Phân tích, thiết kế hệ thống](https://docs.google.com/document/d/e/2PACX-1vQr3hc7Qa8Oa6SDZnwnHXaJ8nJseJrXaDG0vh-UayXpfIVDlO7JjJaAZQpdnmZ-2iEB1IF21VniJweg/pub) ![](https://geps.dev/progress/100)
+3. [Phân tích, thiết kế hệ thống](https://docs.google.com/document/d/e/2PACX-1vQgMmVlFZtHiVu3KRJYj3mABj_MfC3djpVkMYocMqB1X_79SEZYVoRs-M3KMHEgwifPLsuRGwHPmTym/pub) ![](https://geps.dev/progress/100)
 
 4. [Xây dựng máy chủ thử nghiệm](https://docs.google.com/document/d/e/2PACX-1vTZKnTqpPusCloVGqJrfBkOSFrKX8DrD_sdGUUG8E1goJMrNw8ZCIVWfu1ljwaPmYXvZQP6kz5x9AOy/pub) ![](https://geps.dev/progress/30)
 
