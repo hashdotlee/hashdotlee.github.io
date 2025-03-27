@@ -3,7 +3,6 @@
 - Nickname: `hash`
 - Real Name: `Le Viet Hoang`
 - School: `School of Information and Communication Technology - Hanoi University of Science and Technology`
-- Major: `Information System`
 - Interest: `Programming, Design and Cosmos`
 
 # Projects
